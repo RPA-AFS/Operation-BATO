@@ -1614,9 +1614,9 @@
     "restore": {
       "projectUniqueName": "OperationBATO",
       "projectName": "OperationBATO",
-      "projectPath": "C:\\Users\\patrick.wylie\\Documents\\UiPath\\OperationBATO\\.local",
+      "projectPath": "C:\\Users\\patrick.wylie\\Documents\\UiPath\\REPOS\\OperationBATO\\.local",
       "packagesPath": "C:\\Users\\patrick.wylie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrick.wylie\\Documents\\UiPath\\OperationBATO\\.local"
+      "outputPath": "C:\\Users\\patrick.wylie\\Documents\\UiPath\\REPOS\\OperationBATO\\.local"
     },
     "frameworks": {
       "net461": {
